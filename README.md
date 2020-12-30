@@ -11,7 +11,7 @@
 
 ## Data Analysis
 * Analysed the average uber trips per hour
-![1](uber_hour_trips.png)
+![1](/pictures/uber_hour_trips.png)
 * Analysed the average daily uber trips for months and weekdays
 * Analysed the geographical data of the pickups
 * Analysed the relationship between the weather and the daily trips using linear regression
