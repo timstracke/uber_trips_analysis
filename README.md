@@ -6,7 +6,7 @@
 ## Code and Resources Used
 **Python Version:** 3.6.9  
 **Packages**: pandas, pyplot, numpy, plotly, seaborn, sklearn
-**Dataset**: https://www.kaggle.com/fivethirtyeight/uber-pickups-in-new-york-city 
+**Dataset**: https://www.kaggle.com/fivethirtyeight/uber-pickups-in-new-york-city   
 **Weather Data** https://github.com/leokassio/weather-underground-data/blob/master/data/new-york-2015.csv
 
 ## Data Analysis
