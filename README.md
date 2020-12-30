@@ -11,7 +11,8 @@
 
 ## Data Analysis
 #### Analysed the average uber trips per hour  
-<img src="https://raw.githubusercontent.com/timstracke/uber_trips_analysis/main/pictures/uber_hour_trips.png" width=50% height=50%>  
+<img src="https://raw.githubusercontent.com/timstracke/uber_trips_analysis/main/pictures/uber_hour_trips.png" width=50% height=50%> 
+
 #### Analysed the average daily uber trips for months and weekdays  
 <img src="https://raw.githubusercontent.com/timstracke/uber_trips_analysis/main/pictures/uber_month_trips.png" width=50% height=50%>  
 <img src="https://raw.githubusercontent.com/timstracke/uber_trips_analysis/main/pictures/uber_weekday_trips.png" width=50% height=50%>  
