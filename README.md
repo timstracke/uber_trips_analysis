@@ -12,6 +12,12 @@
 ## Data Analysis
 * Analysed the average uber trips per hour
 <img src="https://raw.githubusercontent.com/timstracke/uber_trips_analysis/main/pictures/uber_hour_trips.png" width=50% height=50%>
-* Analysed the average daily uber trips for months and weekdays
-* Analysed the geographical data of the pickups
-* Analysed the relationship between the weather and the daily trips using linear regression
+* Analysed the average daily uber trips for months and weekdays  
+<img src="https://raw.githubusercontent.com/timstracke/uber_trips_analysis/main/pictures/uber_month_trips.png" width=50% height=50%>
+<img src="https://raw.githubusercontent.com/timstracke/uber_trips_analysis/main/pictures/uber_weekday_trips.png" width=50% height=50%>
+<img src="https://raw.githubusercontent.com/timstracke/uber_trips_analysis/main/pictures/uber_month_weekday_trips.png" width=50% height=50%>
+* Analysed the geographical data of the pickups  
+<img src="" width=50% height=50%>
+<img src="" width=50% height=50%>
+* Analysed the relationship between the weather and the daily trips using linear regression  
+<img src="" width=50% height=50%>
