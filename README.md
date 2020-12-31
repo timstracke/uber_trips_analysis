@@ -19,7 +19,9 @@
 <img src="https://raw.githubusercontent.com/timstracke/uber_trips_analysis/main/pictures/uber_month_weekday_trips.png" width=50% height=50%>  
 
 #### Analysed the geographical data of the pickups  
+##### Pickup locations
 <img src="https://raw.githubusercontent.com/timstracke/uber_trips_analysis/main/pictures/uber_geo_points.png" width=50% height=50%>  
+##### Pickup density
 <img src="https://raw.githubusercontent.com/timstracke/uber_trips_analysis/main/pictures/uber_geo_density.png" width=50% height=50%>  
 
 #### Analysed the relationship between the weather and the daily trips using linear regression  
