@@ -26,8 +26,8 @@
 <img src="https://raw.githubusercontent.com/timstracke/uber_trips_analysis/main/pictures/uber_geo_density.png" width=50% height=50%>  
 
 #### Analysed the relationship between the weather and the daily trips using linear regression  
-Solarized dark                                                                                                                                   |  Solarized Ocean
+Temperature vs. daily trips                                                                                                                      |  Precipitation vs. daily trips
 :-----------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------:
-<img src="https://raw.githubusercontent.com/timstracke/uber_trips_and_pickups_analysis/main/pictures/uber_temp_trips.png" width=50% height=50%>  |  <img src="https://raw.githubusercontent.com/timstracke/uber_trips_and_pickups_analysis/main/pictures/uber_prec_trips.png" width=50% height=50%>  
+<img src="https://raw.githubusercontent.com/timstracke/uber_trips_and_pickups_analysis/main/pictures/uber_temp_trips.png">  |  <img src="https://raw.githubusercontent.com/timstracke/uber_trips_and_pickups_analysis/main/pictures/uber_prec_trips.png">  
 <img src="https://raw.githubusercontent.com/timstracke/uber_trips_analysis/main/pictures/uber_lr_scatterplot.png" width=50% height=50%>  
 
